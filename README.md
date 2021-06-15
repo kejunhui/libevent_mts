@@ -13,6 +13,7 @@ libevent 多线程服务器
 #include "singleton.h"
 
 class LibeventServer;
+ 
 class NtripCenter:public TcpServerListener
 {
 	SINGLETON(NtripCenter);
