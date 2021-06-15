@@ -1,5 +1,5 @@
 # libevent_tmt
-libevent tcp mulit thread server\n
+libevent tcp mulit thread server
 libevent 多线程服务器
 使用方法
 1、加载libevent 库
